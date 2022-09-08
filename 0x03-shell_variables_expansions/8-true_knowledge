@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "$(($TRUEKNOWEDGE+128))"
-
+echo $(($TRUEKNOWEDGE+128))
